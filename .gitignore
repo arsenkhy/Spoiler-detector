@@ -1,0 +1,6 @@
+data/raw/IMDB_movie_details.json
+data/raw/IMDB_reviews.json
+data/test_data.json
+data/train_data.json
+models/bilstm_model
+**/.DS_Store

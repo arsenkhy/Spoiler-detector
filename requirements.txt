@@ -1,0 +1,12 @@
+pip
+wheel
+setuptools
+numpy
+notebook
+transformers
+pandas
+langdetect
+scikit-learn
+tensorflow
+tqdm
+matplotlib
